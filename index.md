@@ -1,4 +1,4 @@
-###Tervetulo Freetime Åbo:n kotisivuille!
+##Tervetulo Freetime Åbo:n kotisivuille!
 
 Jos tarvitset tukea, ota yhteyttä [sähköpostilla](mailto:olliteed@gmail.com)!
 
@@ -63,4 +63,3 @@ This policy is effective as of 2020-09-01
 Contact Us
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at olliteed@gmail.com.
-[Terms and Conditions]
