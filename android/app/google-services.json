@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "210445626164",
+    "firebase_url": "https://freetime-285012.firebaseio.com",
+    "project_id": "freetime-285012",
+    "storage_bucket": "freetime-285012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210445626164:android:93ee96616040b904409361",
+        "android_client_info": {
+          "package_name": "com.freetime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210445626164-huf7fqam3jmqjf8mk5vf0p656k5ebl0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0bNKtVuk5t1OuQZKatK4thviX42WVCwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210445626164-huf7fqam3jmqjf8mk5vf0p656k5ebl0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
