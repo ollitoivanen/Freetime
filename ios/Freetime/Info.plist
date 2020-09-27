@@ -47,7 +47,15 @@
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Freetime needs to use location</string>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>KumbhSans-Bold.ttf</string>
+		<string>KumbhSans-Light.ttf</string>
+		<string>KumbhSans-Regular.ttf</string>
+	</array>
 </dict>
 </plist>

@@ -1,4 +1,3 @@
 import {createStore} from 'redux';
-import combinedReducers from 'CombinedReducers/CombinedReducers';
-
-export default store = createStore(combinedReducers);
+import CombinedReducers from 'CombinedReducers/CombinedReducers';
+export default store = createStore(CombinedReducers);

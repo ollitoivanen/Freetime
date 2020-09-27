@@ -1,4 +1,4 @@
-package com.freetime;
+package com.freetime.turku;
 
 import com.facebook.react.ReactActivity;
 
