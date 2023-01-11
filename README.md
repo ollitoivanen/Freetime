@@ -1,5 +1,5 @@
 # Freetime
-**An app that contains different activities to do in Turku, Finland**
+**An app that contains different activities to do in Turku, Finland. This code is view-only and might not work correctly if used.**
 
 This is a hobby project built with React Native for iOS and Android.
 
